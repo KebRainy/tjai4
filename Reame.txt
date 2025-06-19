@@ -1,0 +1,2 @@
+在 Modelspace 上使用 ollama 部署了 Deepseek-R1 7b 与 Qwen2.5 7b
+由于 Modelspace 无法正常连接 HuggingFace, 我在本地 WSL2 上部署了 智谱清言 ChatGLM3 6b 的 int4 量化模型。

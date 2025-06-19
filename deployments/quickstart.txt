@@ -1,0 +1,7 @@
+# 智谱清言 ChatGLM3 6b 部署：
+使用该代码即可。
+
+# Deepseek-R1 7b 与 Qwen2.5 7b 部署：
+curl -fsSL https://ollama.com/install.sh | sh
+ollama run deepseek-r1:7b
+ollama run qwen2.5:7b
